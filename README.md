@@ -1,16 +1,12 @@
-# mirror_wall
+# entertainment_app
+
+
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191747748-27ed8b82-7c4e-43fe-b175-9a6596529329.png)
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Sample Vidio
+https://user-images.githubusercontent.com/108392662/196734176-9148292f-b885-47a9-8905-d26a4e9413cc.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
